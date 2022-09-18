@@ -1,6 +1,10 @@
+import './styles/main.css';
+
 function App() {
   return (
-    <h1>HELLO nlw</h1>
+    <div className='w-8 h-9 text-zinc-400 bg-black'>
+
+    </div>
   )
 }
 
